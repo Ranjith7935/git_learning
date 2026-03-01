@@ -1,0 +1,7 @@
+git Flow
+
+Master productiion
+HOtfix quick fix in production live commit in both master and develop
+release 
+develop test code and development part
+feature each feature statrt complete then goes to develop
